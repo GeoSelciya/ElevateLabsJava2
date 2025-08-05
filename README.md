@@ -32,7 +32,7 @@ StudentRecordManagement/
 └── README.md # Project documentation
 
 
-to run:
+## 📂 TO RUN:
 javac Student.java StudentManagementSystem.java
 java StudentManagementSystem
 
