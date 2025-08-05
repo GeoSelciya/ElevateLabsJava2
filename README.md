@@ -24,6 +24,7 @@ To build a basic Java program that:
 - 🔁 Menu-driven loop with exit option
 
 ---
+## 📂 Project Structure
 StudentRecordManagement/
 │
 ├── Student.java # Student class with fields and methods
@@ -34,5 +35,5 @@ StudentRecordManagement/
 to run:
 javac Student.java StudentManagementSystem.java
 java StudentManagementSystem
-## 📂 Project Structure
+
 
