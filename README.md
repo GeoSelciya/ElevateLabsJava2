@@ -33,7 +33,8 @@ StudentRecordManagement/
 
 
 ## 📂 TO RUN:
-javac Student.java StudentManagementSystem.java
-java StudentManagementSystem
+1.javac Student.java StudentManagementSystem.java
+
+2.java StudentManagementSystem
 
 
